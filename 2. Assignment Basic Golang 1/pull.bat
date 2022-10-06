@@ -1,0 +1,1 @@
+grader-cli assignment pull assignment-password-generator
