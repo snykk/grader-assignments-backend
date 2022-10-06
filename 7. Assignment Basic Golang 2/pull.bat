@@ -1,0 +1,1 @@
+grader-cli assignment pull assignment-basic-2
