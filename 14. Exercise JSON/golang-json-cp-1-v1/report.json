@@ -1,0 +1,28 @@
+{
+  "id": "M-20220606",
+  "name": "Imam Jaya Permana",
+  "date": "12/08/2022",
+  "semester": 5,
+  "studies": [
+    {
+      "study_name": "Mata kuliah 1",
+      "study_credit": 2,
+      "grade": "A"
+    },
+    {
+      "study_name": "Mata kuliah 2",
+      "study_credit": 2,
+      "grade": "A"
+    },
+    {
+      "study_name": "Mata kuliah 3",
+      "study_credit": 3,
+      "grade": "C"
+    },
+    {
+      "study_name": "Mata kuliah 3",
+      "study_credit": 3,
+      "grade": "C"
+    }
+  ]
+}
