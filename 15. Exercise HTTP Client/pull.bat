@@ -1,0 +1,1 @@
+grader-cli assignment pull http-client-cp
