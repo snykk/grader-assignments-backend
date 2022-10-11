@@ -1,0 +1,1 @@
+grader-cli assignment pull cashier-app-final-project
